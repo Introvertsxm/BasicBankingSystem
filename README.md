@@ -15,6 +15,7 @@ The first step in building the website was designing the database schema for the
 After setting up the database, I created a dummy data for up to 10 customers in the customers table. I then built the website using HTML, CSS, and JavaScript for the frontend, and JavaScript for the backend to handle database interactions.
 
 Overall, I had a great time building this website, and I learned a lot about web development and database integration. It was a challenging project, but I feel proud of what I was able to accomplish. If you're interested in checking out the website, you can find it available on https://lnkd.in/dgH49KYd
+LinkedIn Profile:www.linkedin.com/in/sameer-khan-05548622a
 
 Kindly go through my website which I hosted on 000webhost.
 https://123786is.000webhostapp.com/
